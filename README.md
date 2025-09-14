@@ -4,22 +4,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushwantk&label=Profile%20views&color=0e75b6&style=flat" alt="khushwantk" /> </p>
 
 - 🔭 I’m currently working on **DAVi (ISRO Funded Project)**
+    
+-   :monocle_face: Interested in everything except **C/C++**
+  
+-   :seedling: Currently learning **System Design**
+  
+-   :heart: Open Source Software
 
-- 🌱 I’m currently learning **System Design**
-
-- 👨‍💻 All of my projects are available at [https://www.cse.iitk.ac.in/users/khushwantk24/](https://www.cse.iitk.ac.in/users/khushwantk24/)
+- 👨‍💻 [https://www.cse.iitk.ac.in/users/khushwantk24/](https://www.cse.iitk.ac.in/users/khushwantk24/)
 
 - 📝 I regularly write articles on [https://medium.com/@khushwantk](https://medium.com/@khushwantk)
-
-- 💬 Ask me about **React, Node, Superset**
 
 - 📫 How to reach me **khushwantk567@gmail.com**
 
 - ⚡ Fun fact **I think I can google anything😁**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,4 +32,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushwantk&show_icons=true&locale=en&layout=compact" alt="khushwantk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushwantk&" alt="khushwantk" /></p>
