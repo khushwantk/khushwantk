@@ -13,7 +13,7 @@
 
 - 👨‍💻 [https://www.cse.iitk.ac.in/users/khushwantk24/](https://www.cse.iitk.ac.in/users/khushwantk24/)
 
-- 📝 I regularly write articles on [https://medium.com/@khushwantk](https://medium.com/@khushwantk)
+- 📝 I sometimes write articles on [https://medium.com/@khushwantk](https://medium.com/@khushwantk)
 
 - 📫 How to reach me **khushwantk567@gmail.com**
 
